@@ -40,7 +40,7 @@ jobs:
 
       # run tests!
       - run: ls
-      - run: cd DemoProject/src/com/demoProject java ExampleClass.java
+      - run: cd DemoProject/src/com/demoProject && java ExampleClass.java
       # - run: ls
       # - run: java
       # - run: java DemoProject/src/com/demoProject/ExampleClass
