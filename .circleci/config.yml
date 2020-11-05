@@ -40,5 +40,5 @@ jobs:
 
       # run tests!
       - run: ls
-      - run: javac ExampleClass.java
+      - run: javac /DemoProject/src/com/demoProject/ExampleClass.java
       - run: java ExampleClass
