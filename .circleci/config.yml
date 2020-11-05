@@ -42,5 +42,5 @@ jobs:
       - run: ls
       - run: cd DemoProject/src/com/demoProject/
       - run: ls
-      - run: javac DemoProject/src/com/demoProject/ExampleClass.java
-      - run: java DemoProject/src/com/demoProject/ExampleClass
+      - run: java DemoProject/src/com/demoProject/ExampleClass.java
+      # - run: java DemoProject/src/com/demoProject/ExampleClass
